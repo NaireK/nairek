@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">🌐 NaireK | Étudiant en Cybersécurité</h1>
 <p align="center">🔐 Passionné par la sécurité offensive, les réseaux et l’univers homelab</p>
 =======
@@ -12,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=NaireK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NaireK&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaireK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
->>>>>>> 28166909f11ac53154ff28a098a2af589524b3f5
 
 ---
 
@@ -119,6 +117,7 @@ Je suis actuellement en **Bac+3 spécialisé en Cybersécurité et Administratio
 ---
 
 ## 📈 Visiteurs  
+
 [![](https://visitcount.itsvg.in/api?id=NaireK&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
